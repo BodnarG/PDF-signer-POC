@@ -20,7 +20,6 @@
             <artifactId>dss-token</artifactId>
             <version>5.7.d4j.2</version>
         </dependency>
-
         <!-- https://mvnrepository.com/artifact/org.digidoc4j.dss/dss-pades-pdfbox -->
         <dependency>
             <groupId>org.digidoc4j.dss</groupId>
@@ -32,8 +31,6 @@
             <groupId>org.digidoc4j.dss</groupId>
             <artifactId>dss-utils-google-guava</artifactId>
             <version>5.7.d4j.2</version>
-            <scope>test</scope>
         </dependency>
-
     </dependencies>
 </project>
